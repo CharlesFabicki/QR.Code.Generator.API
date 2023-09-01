@@ -36,7 +36,7 @@ The application window will appear. Follow the on-screen instructions to generat
 Include screenshots of your application in action here.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the License - see the LICENSE file for details.
 
 ## Acknowledgments
 This application uses the qrserver.com API to generate QR codes.
