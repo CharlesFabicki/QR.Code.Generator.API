@@ -25,9 +25,9 @@ Clone or download this repository to your local machine.
 
 Install the required dependencies using the command mentioned above.
 
-Run the qr_code_generator.py script using the following command:
+Run the main.py script using the following command:
 ```bash
-python qr_code_generator.py
+python main.py
 ```
 
 The application window will appear. Follow the on-screen instructions to generate QR codes.
