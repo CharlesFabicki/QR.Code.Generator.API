@@ -1,0 +1,14 @@
+# Compiled Python files
+__pycache__/
+
+# Byte-compiled files
+*.pyc
+
+# IDE-specific directories (for PyCharm, IntelliJ IDEA, etc.)
+.idea/
+
+# QR code image files (exclude generated QR code images)
+*.png
+
+# Virtual environment folders
+venv/
