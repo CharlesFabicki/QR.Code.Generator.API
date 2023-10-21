@@ -27,7 +27,7 @@ Install the required dependencies using the command mentioned above.
 
 Run the main.py script using the following command:
 ```bash
-python main.py
+python QR-Code-Generator.py
 ```
 
 The application window will appear. Follow the on-screen instructions to generate QR codes.
@@ -36,7 +36,7 @@ The application window will appear. Follow the on-screen instructions to generat
 Include screenshots of your application in action here.
 
 ## License
-This project is licensed under the License - see the LICENSE file for details.
+This project is licensed under the GNU License.
 
 ## Acknowledgments
 This application uses the qrserver.com API to generate QR codes.
