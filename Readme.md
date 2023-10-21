@@ -2,6 +2,14 @@
 
 This is a simple Python application built using the Tkinter library that allows you to generate QR codes for different types of data such as contact information, links, and text. The application interacts with the [qrserver.com](https://qrserver.com) API to generate QR codes.
 
+## Screenshot
+![QR](https://github.com/CharlesFabicki/QR.Code.Generator.API/assets/103677730/e0cb8545-fb5b-40c8-94e2-947ea8168e66)
+
+![QR1](https://github.com/CharlesFabicki/QR.Code.Generator.API/assets/103677730/ccfa7c72-6ee8-49dc-b4c1-4827c98e0a1f)
+HERE'S GENERATED QR CODE
+![q](https://github.com/CharlesFabicki/QR.Code.Generator.API/assets/103677730/b0dacf57-b108-406d-bf58-3cfe6287c402)
+
+
 ## Features
 
 - Choose from three data types: Contact, Link, and Text.
