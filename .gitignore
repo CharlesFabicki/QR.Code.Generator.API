@@ -1,14 +1,48 @@
-# Compiled Python files
+# Byte-compiled / optimized Python files
+*.pyc
 __pycache__/
 
-# Byte-compiled files
+# Editor-specific files
+.vscode/
+*.swp
+
+# Dependency directories
+venv/
+env/
+__env/
+env.bak/
+*.egg-info/
+dist/
+build/
+lib/
+bin/
+include/
+lib64/
+share/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*.swo
+
+# Compiled Python files
 *.pyc
 
-# IDE-specific directories (for PyCharm, IntelliJ IDEA, etc.)
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Compiled extensions
+*.so
+
+# Sublime Text specific
+*.sublime-workspace
+
+# PyCharm files
 .idea/
 
-# QR code image files (exclude generated QR code images)
-*.png
-
-# Virtual environment folders
-venv/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
